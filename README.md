@@ -1,2 +1,2 @@
-# zihanye96.github.io
-website
+# Portfolio Website
+Personal website detailing my projects 
